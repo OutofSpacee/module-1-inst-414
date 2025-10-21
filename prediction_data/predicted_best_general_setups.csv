@@ -1,0 +1,920 @@
+faction,mission,deployment,predicted_win_prob,games_fmd
+Imperial Knights,Supply Drop,Sweeping Engagement,0.6589411074560589,130
+Leagues Of Votann,Purge The Foe,Search And Destroy,0.6568233223681768,30
+Black Templars,Purge The Foe,Search And Destroy,0.645206779970534,34
+Imperial Knights,Purge The Foe,Crucible Of Battle,0.6411086114399179,847
+Imperial Knights,Burden Of Trust,Tipping Point,0.6315608868924776,32
+Death Guard,Supply Drop,Search And Destroy,0.6287923880422602,37
+Chaos Daemons,Supply Drop,Tipping Point,0.6270904310242549,203
+Adeptus Custodes,Linchpin,Sweeping Engagement,0.622163680685872,36
+Thousand Sons,Scorched Earth,Dawn Of War,0.6196446437435629,33
+Imperial Knights,Linchpin,Dawn Of War,0.6160771966822357,306
+Necrons,Purge The Foe,Sweeping Engagement,0.6153112664471888,48
+Emperor's Children,Take And Hold,Crucible Of Battle,0.6142625495672444,53
+Dark Angels,Purge The Foe,Sweeping Engagement,0.6140194353068139,40
+World Eaters,Linchpin,Crucible Of Battle,0.6139503032954534,198
+Chaos Knights,Take And Hold,Dawn Of War,0.613348283569344,58
+Imperial Knights,Terraform,Dawn Of War,0.6123301176617084,32
+Death Guard,Linchpin,Hammer And Anvil,0.6088543801937772,75
+Death Guard,Burden Of Trust,Tipping Point,0.608169742933497,34
+Imperial Knights,Take And Hold,Dawn Of War,0.6055843812456815,59
+Dark Angels,Purge The Foe,Search And Destroy,0.6052519776001052,64
+Chaos Knights,Take And Hold,Crucible Of Battle,0.604956922678751,69
+Black Templars,Terraform,Search And Destroy,0.6043065378287292,36
+Chaos Knights,Purge The Foe,Dawn Of War,0.6002132959503048,173
+World Eaters,Take And Hold,Dawn Of War,0.597174536365424,107
+Imperial Knights,Take And Hold,Hammer And Anvil,0.5967786925245584,526
+Chaos Knights,Supply Drop,Hammer And Anvil,0.5944340699949646,296
+Death Guard,Supply Drop,Hammer And Anvil,0.5927958828307872,474
+Imperial Knights,Purge The Foe,Dawn Of War,0.5901068995879234,178
+Imperial Knights,Hidden Supplies,Hammer And Anvil,0.5898830304771351,312
+Genestealer Cults,Purge The Foe,Dawn Of War,0.5893121988508286,51
+Chaos Daemons,Purge The Foe,Hammer And Anvil,0.5890086299538201,231
+Death Guard,Hidden Supplies,Hammer And Anvil,0.5889962343293816,467
+Adeptus Mechanicus,Terraform,Sweeping Engagement,0.5883306276670748,165
+Thousand Sons,Purge The Foe,Hammer And Anvil,0.5873435269106618,356
+Genestealer Cults,Supply Drop,Hammer And Anvil,0.5863260185825336,94
+Space Wolves,Supply Drop,Hammer And Anvil,0.5854076004154696,265
+Necrons,Supply Drop,Dawn Of War,0.5847804145779181,43
+Aeldari,Take And Hold,Sweeping Engagement,0.5847804145779181,43
+Imperial Agents,Linchpin,Tipping Point,0.5834683813518765,38
+Chaos Knights,Take And Hold,Hammer And Anvil,0.5833485722148032,494
+Imperial Knights,Purge The Foe,Hammer And Anvil,0.5831651806646078,429
+World Eaters,Terraform,Tipping Point,0.5811273072001227,52
+Space Wolves,Take And Hold,Dawn Of War,0.5809821953243576,83
+Space Marines,Supply Drop,Search And Destroy,0.5797188972896841,47
+Death Guard,Terraform,Dawn Of War,0.5797188972896841,47
+Thousand Sons,Supply Drop,Sweeping Engagement,0.5776173969711248,139
+Imperial Knights,Supply Drop,Hammer And Anvil,0.5765858994913413,337
+Imperial Knights,Hidden Supplies,Crucible Of Battle,0.5759816786016323,353
+Imperial Knights,Scorched Earth,Crucible Of Battle,0.575868822794173,459
+Blood Angels,Take And Hold,Sweeping Engagement,0.5752276918085751,51
+Necrons,Burden Of Trust,Search And Destroy,0.57386857920017,32
+Deathwatch,Take And Hold,Tipping Point,0.5730246515882179,149
+Genestealer Cults,Take And Hold,Hammer And Anvil,0.572627404970706,205
+Genestealer Cults,Linchpin,Search And Destroy,0.5724947277407464,233
+Genestealer Cults,Scorched Earth,Search And Destroy,0.5722022324293222,144
+Adeptus Mechanicus,Hidden Supplies,Search And Destroy,0.5719401859613259,228
+Genestealer Cults,Scorched Earth,Tipping Point,0.571343134323042,167
+Tyranids,Terraform,Dawn Of War,0.5712490575102116,69
+Adeptus Custodes,Scorched Earth,Dawn Of War,0.5711666576788333,41
+Thousand Sons,Purge The Foe,Search And Destroy,0.57113270589646,34
+Blood Angels,Hidden Supplies,Tipping Point,0.57113270589646,34
+Chaos Knights,Purge The Foe,Hammer And Anvil,0.570305975046487,376
+Drukhari,Supply Drop,Sweeping Engagement,0.5696831441583389,71
+Tyranids,Scorched Earth,Hammer And Anvil,0.5693657937455693,57
+Astra Militarum,Purge The Foe,Tipping Point,0.5685922521144435,36
+Death Guard,Hidden Supplies,Search And Destroy,0.568138649587783,1027
+Genestealer Cults,Terraform,Crucible Of Battle,0.5680306559144108,279
+Necrons,Take And Hold,Sweeping Engagement,0.5679205362605678,66
+Chaos Knights,Linchpin,Search And Destroy,0.5676833554436337,709
+Chaos Knights,Take And Hold,Tipping Point,0.5676599191667494,894
+Drukhari,Supply Drop,Tipping Point,0.5669207785086965,142
+Death Guard,Terraform,Hammer And Anvil,0.5667871710524436,45
+World Eaters,Terraform,Dawn Of War,0.5654211637622816,54
+Chaos Daemons,Linchpin,Crucible Of Battle,0.5653430509867403,100
+Leagues Of Votann,Purge The Foe,Dawn Of War,0.5653082296289689,146
+Death Guard,Burden Of Trust,Crucible Of Battle,0.5647935241553558,47
+Death Guard,Purge The Foe,Search And Destroy,0.5634909360696613,72
+World Eaters,Burden Of Trust,Tipping Point,0.5630408701586573,33
+Chaos Knights,Supply Drop,Sweeping Engagement,0.5627155347248785,113
+Dark Angels,Linchpin,Crucible Of Battle,0.5622858615089168,138
+Adeptus Custodes,Terraform,Hammer And Anvil,0.5619542922324006,42
+Chaos Knights,Hidden Supplies,Crucible Of Battle,0.5618868867545952,341
+Imperial Knights,Linchpin,Tipping Point,0.5615077802988085,644
+Dark Angels,Take And Hold,Crucible Of Battle,0.5606707943670152,101
+Space Marines,Purge The Foe,Tipping Point,0.5606707943670152,101
+Imperial Knights,Supply Drop,Tipping Point,0.5606264055023606,365
+Chaos Knights,Linchpin,Dawn Of War,0.5605797342388807,258
+Drukhari,Hidden Supplies,Hammer And Anvil,0.5602655878607021,135
+Chaos Knights,Terraform,Search And Destroy,0.5600182206001381,44
+Adeptus Custodes,Linchpin,Tipping Point,0.5593137117968371,736
+Tyranids,Burden Of Trust,Search And Destroy,0.5586169494457691,37
+Space Marines,Terraform,Dawn Of War,0.5584116611840884,80
+Death Guard,Burden Of Trust,Hammer And Anvil,0.5578822149121178,55
+Death Guard,Scorched Earth,Crucible Of Battle,0.5575579895330796,733
+Chaos Daemons,Scorched Earth,Search And Destroy,0.5570303573175049,249
+Chaos Daemons,Terraform,Search And Destroy,0.5568233223681768,30
+Chaos Daemons,Scorched Earth,Tipping Point,0.5565755932800316,260
+World Eaters,Purge The Foe,Search And Destroy,0.5563787807585563,57
+Drukhari,Terraform,Sweeping Engagement,0.5563523567050632,199
+Imperial Knights,Terraform,Search And Destroy,0.5546378099694007,32
+Grey Knights,Purge The Foe,Crucible Of Battle,0.5545552156878228,472
+Imperial Knights,Scorched Earth,Search And Destroy,0.5544971314374384,445
+Necrons,Burden Of Trust,Dawn Of War,0.5535946434371461,61
+Space Wolves,Take And Hold,Crucible Of Battle,0.5533495294223449,52
+T'au,Linchpin,Hammer And Anvil,0.5530343828318863,43
+Adepta Sororitas,Terraform,Crucible Of Battle,0.5526888625697717,423
+Imperial Agents,Linchpin,Search And Destroy,0.5526141873779414,34
+Death Guard,Take And Hold,Hammer And Anvil,0.5522780871857241,876
+Adeptus Custodes,Supply Drop,Sweeping Engagement,0.5521209909538887,188
+Genestealer Cults,Linchpin,Crucible Of Battle,0.5514025556678283,45
+Adeptus Custodes,Take And Hold,Hammer And Anvil,0.5511655415150234,573
+Drukhari,Take And Hold,Tipping Point,0.5511370260783733,368
+Chaos Knights,Supply Drop,Tipping Point,0.5509747603383109,330
+World Eaters,Burden Of Trust,Search And Destroy,0.5507351092573007,36
+Adeptus Custodes,Supply Drop,Search And Destroy,0.5507351092573007,36
+Thousand Sons,Terraform,Tipping Point,0.5507351092573007,36
+Space Wolves,Take And Hold,Sweeping Engagement,0.5507351092573007,36
+Aeldari,Linchpin,Hammer And Anvil,0.5498681510210274,47
+Chaos Daemons,Hidden Supplies,Search And Destroy,0.5491251164827445,333
+Deathwatch,Linchpin,Tipping Point,0.5490015240220995,89
+Blood Angels,Purge The Foe,Sweeping Engagement,0.5489856227311868,38
+Necrons,Supply Drop,Hammer And Anvil,0.5486131346660793,419
+World Eaters,Terraform,Sweeping Engagement,0.5480134007579077,664
+Black Templars,Hidden Supplies,Crucible Of Battle,0.5478530215966617,217
+Adeptus Custodes,Take And Hold,Sweeping Engagement,0.5470586777240681,51
+Chaos Knights,Take And Hold,Search And Destroy,0.546991283314297,764
+Blood Angels,Purge The Foe,Tipping Point,0.5468434892488883,62
+Adeptus Mechanicus,Scorched Earth,Crucible Of Battle,0.5464734632756658,181
+Chaos Knights,Terraform,Sweeping Engagement,0.546403908784113,483
+Death Guard,Purge The Foe,Dawn Of War,0.5459977881124903,357
+Chaos Space Marines,Burden Of Trust,Search And Destroy,0.5459052180080165,31
+Chaos Knights,Terraform,Tipping Point,0.5459052180080165,31
+Imperial Knights,Terraform,Hammer And Anvil,0.5459052180080165,31
+Grey Knights,Purge The Foe,Hammer And Anvil,0.545831675888771,282
+Orks,Burden Of Trust,Dawn Of War,0.5458252599743361,42
+Grey Knights,Take And Hold,Dawn Of War,0.5457281680762956,64
+World Eaters,Hidden Supplies,Search And Destroy,0.5455955026217931,788
+Leagues Of Votann,Purge The Foe,Hammer And Anvil,0.5455275114870122,295
+Genestealer Cults,Take And Hold,Tipping Point,0.5455205922942783,328
+Necrons,Burden Of Trust,Tipping Point,0.5443932206001381,44
+Blood Angels,Linchpin,Sweeping Engagement,0.5443932206001381,44
+Orks,Terraform,Search And Destroy,0.5443932206001381,44
+Drukhari,Take And Hold,Dawn Of War,0.5443932206001381,44
+World Eaters,Purge The Foe,Crucible Of Battle,0.5443571648848569,1036
+Necrons,Supply Drop,Search And Destroy,0.5441729456303555,33
+World Eaters,Burden Of Trust,Hammer And Anvil,0.5441729456303555,33
+Dark Angels,Hidden Supplies,Tipping Point,0.5441729456303555,33
+Chaos Daemons,Terraform,Crucible Of Battle,0.5441240045952469,441
+Adepta Sororitas,Take And Hold,Tipping Point,0.543825673011781,524
+Adeptus Custodes,Take And Hold,Tipping Point,0.5435143926579086,999
+Chaos Daemons,Terraform,Sweeping Engagement,0.5434565671609408,287
+Aeldari,Take And Hold,Crucible Of Battle,0.5433917677715433,57
+Dark Angels,Terraform,Tipping Point,0.543047971491043,46
+Death Guard,Supply Drop,Tipping Point,0.5429709072078448,593
+Black Templars,Purge The Foe,Dawn Of War,0.5429182821281983,186
+Imperial Knights,Take And Hold,Crucible Of Battle,0.5426796235378759,70
+Death Guard,Take And Hold,Search And Destroy,0.5424575479415289,1307
+Adeptus Custodes,Purge The Foe,Crucible Of Battle,0.5418154155861241,873
+Death Guard,Supply Drop,Crucible Of Battle,0.5417818546824829,48
+Dark Angels,Supply Drop,Sweeping Engagement,0.5417036137660795,192
+Space Wolves,Supply Drop,Sweeping Engagement,0.5414755147932703,157
+Deathwatch,Purge The Foe,Crucible Of Battle,0.5414455301856785,133
+Death Guard,Hidden Supplies,Crucible Of Battle,0.54122954172998,534
+Death Guard,Scorched Earth,Tipping Point,0.5411384575173241,754
+World Eaters,Linchpin,Sweeping Engagement,0.5410730897966463,37
+T'au,Linchpin,Sweeping Engagement,0.5410730897966463,37
+Aeldari,Terraform,Search And Destroy,0.5410730897966463,37
+Chaos Daemons,Purge The Foe,Dawn Of War,0.540772260445869,111
+Thousand Sons,Linchpin,Crucible Of Battle,0.5405636536000613,124
+Death Guard,Linchpin,Crucible Of Battle,0.5404183820536538,174
+Death Guard,Linchpin,Search And Destroy,0.5402212533196412,1070
+Chaos Daemons,Purge The Foe,Crucible Of Battle,0.5401828065729929,424
+Chaos Knights,Terraform,Crucible Of Battle,0.5398701263053993,741
+Adepta Sororitas,Purge The Foe,Hammer And Anvil,0.5398572283765031,252
+Drukhari,Scorched Earth,Tipping Point,0.5397496430570589,215
+Death Guard,Purge The Foe,Crucible Of Battle,0.5396940585233082,1349
+Blood Angels,Scorched Earth,Hammer And Anvil,0.5396807816679464,39
+Adeptus Custodes,Supply Drop,Hammer And Anvil,0.5392623442285948,358
+Drukhari,Take And Hold,Search And Destroy,0.5391498967024659,308
+Space Wolves,Scorched Earth,Search And Destroy,0.5386554342814255,351
+Genestealer Cults,Supply Drop,Tipping Point,0.538428724463216,132
+Deathwatch,Purge The Foe,Dawn Of War,0.5383797724329318,41
+Space Wolves,Purge The Foe,Tipping Point,0.5383797724329318,41
+Emperor's Children,Scorched Earth,Tipping Point,0.5380402284307927,357
+Necrons,Supply Drop,Sweeping Engagement,0.5378797293714609,253
+Adeptus Custodes,Take And Hold,Search And Destroy,0.5375833326428323,774
+Genestealer Cults,Hidden Supplies,Crucible Of Battle,0.5372397393723757,110
+Necrons,Hidden Supplies,Dawn Of War,0.5371613669588704,43
+Chaos Daemons,Scorched Earth,Crucible Of Battle,0.5370036441200277,300
+Imperial Knights,Terraform,Sweeping Engagement,0.5369811971671298,503
+Leagues Of Votann,Purge The Foe,Tipping Point,0.5368233223681768,30
+T'au,Hidden Supplies,Dawn Of War,0.5368233223681768,30
+Aeldari,Take And Hold,Search And Destroy,0.5366306693113718,781
+Death Guard,Terraform,Crucible Of Battle,0.5364947869287315,1195
+Necrons,Take And Hold,Dawn Of War,0.5363891814808981,168
+Space Wolves,Scorched Earth,Crucible Of Battle,0.5360447034333563,364
+Adeptus Custodes,Terraform,Dawn Of War,0.5360179402832128,45
+Tyranids,Take And Hold,Crucible Of Battle,0.5355968096941827,116
+Chaos Space Marines,Scorched Earth,Hammer And Anvil,0.5354070407386315,32
+Adeptus Custodes,Burden Of Trust,Hammer And Anvil,0.5354070407386315,32
+Adeptus Custodes,Purge The Foe,Hammer And Anvil,0.5348460275750173,492
+Blood Angels,Purge The Foe,Dawn Of War,0.5342680857302669,238
+Space Wolves,Take And Hold,Hammer And Anvil,0.5342582098918425,457
+Adeptus Custodes,Supply Drop,Crucible Of Battle,0.534095668859423,34
+Blood Angels,Scorched Earth,Dawn Of War,0.534095668859423,34
+World Eaters,Supply Drop,Dawn Of War,0.534095668859423,34
+Drukhari,Linchpin,Search And Destroy,0.5340575559111377,313
+Adeptus Mechanicus,Hidden Supplies,Crucible Of Battle,0.5336192091556169,124
+Death Guard,Scorched Earth,Search And Destroy,0.5331993693581524,668
+Space Wolves,Scorched Earth,Tipping Point,0.5331046305667713,383
+Chaos Knights,Scorched Earth,Search And Destroy,0.5331046305667713,383
+Drukhari,Linchpin,Crucible Of Battle,0.5324385060039692,83
+Blood Angels,Purge The Foe,Search And Destroy,0.5320707687453265,53
+World Eaters,Terraform,Crucible Of Battle,0.5319498566578253,914
+World Eaters,Hidden Supplies,Crucible Of Battle,0.5317457938495616,416
+Grey Knights,Take And Hold,Crucible Of Battle,0.531744243420842,38
+Adeptus Custodes,Scorched Earth,Hammer And Anvil,0.531744243420842,38
+Tyranids,Terraform,Crucible Of Battle,0.5316935891411086,890
+Death Guard,Linchpin,Tipping Point,0.5316393608938307,1097
+Adepta Sororitas,Linchpin,Search And Destroy,0.5314571957236565,420
+Aeldari,Terraform,Crucible Of Battle,0.5314221745687889,691
+Chaos Knights,Linchpin,Hammer And Anvil,0.5312155482454511,55
+Thousand Sons,Scorched Earth,Tipping Point,0.5311737975639839,424
+Blood Angels,Scorched Earth,Search And Destroy,0.5310982893203003,409
+Aeldari,Linchpin,Crucible Of Battle,0.5310700325447278,168
+Necrons,Purge The Foe,Dawn Of War,0.5310545529081346,313
+Black Templars,Linchpin,Search And Destroy,0.5306220489345328,432
+Chaos Daemons,Linchpin,Tipping Point,0.5303222754752059,387
+Adepta Sororitas,Hidden Supplies,Search And Destroy,0.5302070564245124,372
+Imperial Knights,Scorched Earth,Tipping Point,0.5300022085575925,508
+Thousand Sons,Take And Hold,Tipping Point,0.5300016018110012,708
+Imperial Knights,Hidden Supplies,Search And Destroy,0.5299442041931162,676
+Chaos Daemons,Take And Hold,Search And Destroy,0.5297020732154696,446
+Imperial Knights,Linchpin,Hammer And Anvil,0.5296962277162716,42
+Space Marines,Burden Of Trust,Crucible Of Battle,0.5296350141570739,59
+Black Templars,Take And Hold,Search And Destroy,0.5290251618444207,543
+Death Guard,Purge The Foe,Sweeping Engagement,0.5289032854124548,61
+Black Templars,Take And Hold,Hammer And Anvil,0.5286337960983963,411
+World Eaters,Linchpin,Hammer And Anvil,0.5284116611840883,80
+Necrons,Linchpin,Dawn Of War,0.5278469245017647,495
+Death Guard,Take And Hold,Tipping Point,0.5272493832236752,1332
+Tyranids,Hidden Supplies,Crucible Of Battle,0.5267899685936851,422
+Black Templars,Hidden Supplies,Hammer And Anvil,0.526532075809242,219
+Chaos Knights,Purge The Foe,Crucible Of Battle,0.526510765364483,785
+Blood Angels,Linchpin,Tipping Point,0.5263145439236192,734
+Adeptus Custodes,Linchpin,Hammer And Anvil,0.5263052372854925,69
+Blood Angels,Supply Drop,Crucible Of Battle,0.5262973748707616,31
+World Eaters,Scorched Earth,Hammer And Anvil,0.5262973748707616,31
+Imperial Knights,Linchpin,Search And Destroy,0.5262391503839897,679
+Chaos Knights,Hidden Supplies,Hammer And Anvil,0.5259849411788438,301
+Tyranids,Scorched Earth,Crucible Of Battle,0.5258704319028817,573
+Thousand Sons,Linchpin,Dawn Of War,0.5257010642977001,324
+Tyranids,Burden Of Trust,Hammer And Anvil,0.5255717516445672,52
+Thousand Sons,Purge The Foe,Dawn Of War,0.5253135834995679,191
+Adeptus Mechanicus,Supply Drop,Sweeping Engagement,0.524880623221741,54
+Adeptus Custodes,Scorched Earth,Tipping Point,0.5244543570996623,546
+World Eaters,Purge The Foe,Hammer And Anvil,0.5243124661147526,611
+Death Guard,Terraform,Sweeping Engagement,0.5242067160430649,779
+Black Templars,Supply Drop,Sweeping Engagement,0.524037166319488,119
+Grey Knights,Linchpin,Dawn Of War,0.5237385160818171,205
+Aeldari,Take And Hold,Tipping Point,0.5236800536884852,839
+Emperor's Children,Terraform,Tipping Point,0.5235292301475235,37
+Leagues Of Votann,Scorched Earth,Search And Destroy,0.5230622532894378,320
+Space Wolves,Terraform,Sweeping Engagement,0.5229045754362923,366
+Chaos Space Marines,Hidden Supplies,Search And Destroy,0.5225283616112436,550
+Dark Angels,Purge The Foe,Tipping Point,0.5224532453464492,62
+Leagues Of Votann,Hidden Supplies,Hammer And Anvil,0.5224069474148723,263
+Imperial Knights,Take And Hold,Search And Destroy,0.5223236565383992,824
+Space Marines,Burden Of Trust,Dawn Of War,0.5222968201753222,85
+Adeptus Custodes,Hidden Supplies,Hammer And Anvil,0.5221787496024436,311
+Adeptus Custodes,Terraform,Crucible Of Battle,0.5221725456152088,717
+Tyranids,Take And Hold,Sweeping Engagement,0.5219186442667718,64
+Adepta Sororitas,Take And Hold,Dawn Of War,0.5219186442667718,64
+World Eaters,Linchpin,Dawn Of War,0.5218692580409086,430
+Tyranids,Linchpin,Search And Destroy,0.5215081805004668,856
+Chaos Daemons,Linchpin,Search And Destroy,0.5214591410640991,392
+Tyranids,Take And Hold,Tipping Point,0.5213916938066299,1188
+Drukhari,Scorched Earth,Search And Destroy,0.5213850547704869,183
+Adepta Sororitas,Take And Hold,Crucible Of Battle,0.5212883510858546,43
+World Eaters,Hidden Supplies,Hammer And Anvil,0.5210503955200211,400
+Chaos Daemons,Hidden Supplies,Hammer And Anvil,0.5206514307441336,166
+Blood Angels,Terraform,Crucible Of Battle,0.52039995180428,683
+Genestealer Cults,Linchpin,Dawn Of War,0.5203579662470333,95
+Chaos Knights,Linchpin,Tipping Point,0.5200596610411723,670
+Blood Angels,Take And Hold,Dawn Of War,0.5200099668240071,97
+Adepta Sororitas,Terraform,Sweeping Engagement,0.5196320932458478,303
+Orks,Take And Hold,Crucible Of Battle,0.519586873600094,74
+Imperial Knights,Take And Hold,Tipping Point,0.5193324036994524,877
+Drukhari,Scorched Earth,Crucible Of Battle,0.5192940716373726,205
+Chaos Knights,Hidden Supplies,Search And Destroy,0.5191659195797146,650
+World Eaters,Linchpin,Search And Destroy,0.5189792870132507,841
+Adeptus Custodes,Scorched Earth,Crucible Of Battle,0.5187951028539414,477
+Blood Angels,Hidden Supplies,Hammer And Anvil,0.5186024398675441,294
+Death Guard,Take And Hold,Dawn Of War,0.5184594813171759,161
+Chaos Daemons,Take And Hold,Hammer And Anvil,0.5180660003373471,331
+Necrons,Terraform,Tipping Point,0.5178822149121178,55
+Dark Angels,Hidden Supplies,Hammer And Anvil,0.5178624397701658,335
+Deathwatch,Scorched Earth,Search And Destroy,0.5174177417975173,57
+Space Wolves,Terraform,Crucible Of Battle,0.5171397543457044,525
+Adepta Sororitas,Hidden Supplies,Hammer And Anvil,0.5169602341035981,177
+Imperial Knights,Purge The Foe,Tipping Point,0.5168233223681767,30
+World Eaters,Terraform,Hammer And Anvil,0.5168233223681767,30
+Blood Angels,Terraform,Hammer And Anvil,0.5168233223681767,30
+Emperor's Children,Terraform,Sweeping Engagement,0.516799007135947,417
+Space Marines,Supply Drop,Dawn Of War,0.5165576064001091,61
+Adeptus Custodes,Hidden Supplies,Crucible Of Battle,0.5163011982478376,369
+Blood Angels,Hidden Supplies,Dawn Of War,0.5161762715078623,32
+Black Templars,Burden Of Trust,Dawn Of War,0.5161762715078623,32
+Chaos Space Marines,Hidden Supplies,Crucible Of Battle,0.5160190631675603,251
+World Eaters,Take And Hold,Search And Destroy,0.5159305982537994,943
+Imperial Knights,Terraform,Crucible Of Battle,0.5158017491913046,761
+World Eaters,Take And Hold,Hammer And Anvil,0.5157118349542158,670
+Grey Knights,Linchpin,Crucible Of Battle,0.51560310269838,98
+Space Marines,Hidden Supplies,Sweeping Engagement,0.5155771503409045,34
+World Eaters,Supply Drop,Tipping Point,0.5152025913742418,430
+Death Guard,Hidden Supplies,Dawn Of War,0.515020823543015,36
+World Eaters,Supply Drop,Search And Destroy,0.515020823543015,36
+Dark Angels,Take And Hold,Search And Destroy,0.5148969444529106,842
+Aeldari,Hidden Supplies,Search And Destroy,0.5147765257033167,646
+Aeldari,Scorched Earth,Tipping Point,0.514770957984726,477
+Chaos Knights,Linchpin,Sweeping Engagement,0.5145028641104973,38
+Aeldari,Terraform,Sweeping Engagement,0.5144227232188779,489
+Dark Angels,Purge The Foe,Hammer And Anvil,0.5141028167597281,536
+Blood Angels,Burden Of Trust,Search And Destroy,0.514019435306814,40
+Death Guard,Supply Drop,Dawn Of War,0.514019435306814,40
+World Eaters,Purge The Foe,Dawn Of War,0.5138171443108231,258
+Adeptus Custodes,Hidden Supplies,Search And Destroy,0.5137416245772798,587
+Adeptus Custodes,Purge The Foe,Sweeping Engagement,0.5135671954582071,42
+Necrons,Supply Drop,Crucible Of Battle,0.5135671954582071,42
+Adeptus Mechanicus,Linchpin,Crucible Of Battle,0.5135471325091802,79
+Black Templars,Hidden Supplies,Search And Destroy,0.5133971699963505,416
+Space Wolves,Take And Hold,Tipping Point,0.513298873132985,720
+Tyranids,Linchpin,Tipping Point,0.5131720860840986,841
+Necrons,Burden Of Trust,Hammer And Anvil,0.5131432206001381,44
+Tyranids,Supply Drop,Dawn Of War,0.5131432206001381,44
+Grey Knights,Take And Hold,Hammer And Anvil,0.5129442944342483,354
+Blood Angels,Linchpin,Hammer And Anvil,0.5127449411880126,46
+Space Marines,Linchpin,Hammer And Anvil,0.5125342627888676,87
+Adeptus Custodes,Terraform,Tipping Point,0.5123700899766005,48
+Imperial Knights,Linchpin,Crucible Of Battle,0.5121129349895318,132
+Tyranids,Take And Hold,Hammer And Anvil,0.5120307654259277,798
+Drukhari,Hidden Supplies,Search And Destroy,0.5118902708840172,261
+Adeptus Mechanicus,Terraform,Crucible Of Battle,0.5117233898891538,265
+Chaos Daemons,Take And Hold,Dawn Of War,0.5116828627556783,52
+Thousand Sons,Scorched Earth,Crucible Of Battle,0.51158173712538,398
+Drukhari,Purge The Foe,Hammer And Anvil,0.511095574020895,191
+Orks,Hidden Supplies,Search And Destroy,0.5110127136462038,465
+Aeldari,Linchpin,Tipping Point,0.510722830906597,618
+Necrons,Scorched Earth,Search And Destroy,0.5099834880717923,515
+Space Wolves,Linchpin,Search And Destroy,0.5097644718800893,527
+Leagues Of Votann,Hidden Supplies,Crucible Of Battle,0.5097143822340615,221
+Space Wolves,Linchpin,Dawn Of War,0.5091063016615668,292
+Drukhari,Linchpin,Tipping Point,0.5091063016615668,292
+Adeptus Mechanicus,Purge The Foe,Crucible Of Battle,0.5088786441200276,300
+Black Templars,Scorched Earth,Search And Destroy,0.5088786441200276,300
+Emperor's Children,Scorched Earth,Search And Destroy,0.5088234972621393,302
+Death Guard,Purge The Foe,Hammer And Anvil,0.5087706308691685,703
+Aeldari,Scorched Earth,Crucible Of Battle,0.5087347406809031,477
+Chaos Daemons,Linchpin,Dawn Of War,0.5086847458415511,192
+Adeptus Custodes,Scorched Earth,Search And Destroy,0.5084236099087913,436
+T'au,Scorched Earth,Crucible Of Battle,0.5083142123775083,442
+Space Wolves,Purge The Foe,Hammer And Anvil,0.5082497928849601,385
+Tyranids,Hidden Supplies,Hammer And Anvil,0.5081037259882043,454
+Thousand Sons,Purge The Foe,Crucible Of Battle,0.5080560574938293,643
+Genestealer Cults,Hidden Supplies,Search And Destroy,0.5080050700800384,210
+Adepta Sororitas,Linchpin,Tipping Point,0.5079362615639165,401
+Genestealer Cults,Take And Hold,Search And Destroy,0.5076759544865863,285
+Chaos Knights,Scorched Earth,Tipping Point,0.5075613506267891,488
+Adeptus Custodes,Linchpin,Search And Destroy,0.507367125680564,705
+Space Wolves,Hidden Supplies,Hammer And Anvil,0.5071363027845304,238
+Death Guard,The Ritual,Crucible Of Battle,0.5066895317335066,31
+Imperial Knights,Purge The Foe,Search And Destroy,0.5066895317335066,31
+Space Wolves,Hidden Supplies,Dawn Of War,0.5064370965737517,33
+Black Templars,Take And Hold,Sweeping Engagement,0.5064370965737517,33
+World Eaters,Scorched Earth,Sweeping Engagement,0.5064370965737517,33
+Tyranids,Supply Drop,Crucible Of Battle,0.5064370965737517,33
+Adeptus Mechanicus,Supply Drop,Hammer And Anvil,0.5062773590926033,114
+World Eaters,Burden Of Trust,Dawn Of War,0.5062030203347062,35
+Necrons,Purge The Foe,Hammer And Anvil,0.5060206365492302,618
+Leagues Of Votann,Supply Drop,Hammer And Anvil,0.5058566206044054,209
+Space Wolves,Supply Drop,Tipping Point,0.5056133113366124,308
+Chaos Daemons,Take And Hold,Tipping Point,0.5055491525750173,492
+Adepta Sororitas,Supply Drop,Tipping Point,0.5054741474220769,225
+World Eaters,Terraform,Search And Destroy,0.5054153352128388,43
+Space Wolves,Linchpin,Hammer And Anvil,0.505248709513982,45
+Tyranids,Scorched Earth,Search And Destroy,0.5051100110043325,536
+Death Guard,Linchpin,Sweeping Engagement,0.5050920316180423,47
+Aeldari,Purge The Foe,Search And Destroy,0.5050920316180423,47
+World Eaters,Take And Hold,Tipping Point,0.5048839181592047,1176
+T'au,Terraform,Dawn Of War,0.504673508471354,53
+Space Marines,Terraform,Hammer And Anvil,0.5044307288105043,57
+Adepta Sororitas,Supply Drop,Hammer And Anvil,0.5044271900968886,170
+Blood Angels,Supply Drop,Sweeping Engagement,0.5044271900968886,170
+Tyranids,Linchpin,Dawn Of War,0.5043597134421022,517
+Death Guard,Take And Hold,Sweeping Engagement,0.5043185584608714,59
+Dark Angels,Scorched Earth,Search And Destroy,0.5041467705369569,424
+Death Guard,Burden Of Trust,Dawn Of War,0.5041104351615523,63
+Death Guard,Purge The Foe,Tipping Point,0.504013719040104,65
+Aeldari,Purge The Foe,Dawn Of War,0.5039677647094757,192
+Chaos Knights,Scorched Earth,Crucible Of Battle,0.5038843167055038,454
+Deathwatch,Supply Drop,Tipping Point,0.503749078224273,71
+Aeldari,Take And Hold,Dawn Of War,0.503749078224273,71
+Leagues Of Votann,Terraform,Crucible Of Battle,0.5034222418557786,518
+Black Templars,Take And Hold,Dawn Of War,0.5033122924117363,83
+Grey Knights,Scorched Earth,Search And Destroy,0.5031622786406347,246
+Genestealer Cults,Hidden Supplies,Hammer And Anvil,0.5030191691894588,93
+Adeptus Mechanicus,Linchpin,Tipping Point,0.5028417774270568,276
+Adeptus Mechanicus,Supply Drop,Tipping Point,0.5023208579483595,127
+Thousand Sons,Linchpin,Tipping Point,0.5022770222723411,569
+Drukhari,Take And Hold,Hammer And Anvil,0.501297209575699,243
+Thousand Sons,Supply Drop,Tipping Point,0.5011564953166401,275
+Astra Militarum,Hidden Supplies,Crucible Of Battle,0.501056241852659,303
+Adeptus Custodes,Linchpin,Dawn Of War,0.5008181441688462,397
+Dark Angels,Linchpin,Dawn Of War,0.5007915687202061,411
+Adepta Sororitas,Take And Hold,Search And Destroy,0.5007531260892027,433
+Space Marines,Purge The Foe,Dawn Of War,0.5006976812237399,469
+Blood Angels,Scorched Earth,Crucible Of Battle,0.5006729114761516,487
+Adeptus Custodes,Terraform,Sweeping Engagement,0.5006329612586435,519
+Black Templars,Purge The Foe,Crucible Of Battle,0.5005714675350232,577
+Tyranids,Scorched Earth,Tipping Point,0.5005339062885897,619
+Adepta Sororitas,Take And Hold,Hammer And Anvil,0.49953007727339893,318
+Aeldari,Hidden Supplies,Hammer And Anvil,0.4994633990486785,276
+Emperor's Children,Purge The Foe,Dawn Of War,0.49921369365548923,182
+Genestealer Cults,Terraform,Sweeping Engagement,0.49920583059204415,180
+Adeptus Mechanicus,Purge The Foe,Hammer And Anvil,0.4991896230531063,176
+Dark Angels,Take And Hold,Hammer And Anvil,0.4990239498050502,655
+T'au,Linchpin,Crucible Of Battle,0.4990072882400552,140
+Chaos Knights,Linchpin,Crucible Of Battle,0.498968611158499,134
+Tyranids,Purge The Foe,Hammer And Anvil,0.49885817351544,557
+Tyranids,Linchpin,Hammer And Anvil,0.498581840342936,92
+Adepta Sororitas,Linchpin,Crucible Of Battle,0.49841166118408836,80
+World Eaters,Supply Drop,Hammer And Anvil,0.4983235779094372,373
+Deathwatch,Scorched Earth,Crucible Of Battle,0.49827354476531344,72
+Chaos Space Marines,Terraform,Tipping Point,0.49815309440010275,66
+Death Guard,Linchpin,Dawn Of War,0.4980156954082345,564
+Space Marines,Supply Drop,Sweeping Engagement,0.49800956531241347,311
+Aeldari,Supply Drop,Hammer And Anvil,0.497921659679523,297
+Orks,Purge The Foe,Tipping Point,0.4979100805053794,56
+Death Guard,Terraform,Tipping Point,0.497853596194714,54
+Astra Militarum,Take And Hold,Sweeping Engagement,0.49779397386678936,52
+World Eaters,Purge The Foe,Tipping Point,0.4977309445486976,50
+Adeptus Custodes,Purge The Foe,Tipping Point,0.49766420762365937,48
+Astra Militarum,Terraform,Hammer And Anvil,0.49759342603649753,46
+Death Guard,Supply Drop,Sweeping Engagement,0.4975866890784207,253
+T'au,Scorched Earth,Tipping Point,0.4975756613355833,458
+Adepta Sororitas,Scorched Earth,Search And Destroy,0.49756887866571536,251
+Tyranids,Burden Of Trust,Crucible Of Battle,0.49743816320014256,42
+Dark Angels,Burden Of Trust,Crucible Of Battle,0.49743816320014256,42
+Orks,Linchpin,Hammer And Anvil,0.4973527686401473,40
+Dark Angels,Supply Drop,Crucible Of Battle,0.4973527686401473,40
+Tyranids,Hidden Supplies,Dawn Of War,0.4973527686401473,40
+Aeldari,Terraform,Dawn Of War,0.49726148480015236,38
+Adeptus Custodes,Purge The Foe,Dawn Of War,0.4971723867742869,213
+Deathwatch,Supply Drop,Sweeping Engagement,0.4970586318223859,34
+World Eaters,Purge The Foe,Sweeping Engagement,0.4970586318223859,34
+Astra Militarum,Terraform,Search And Destroy,0.4970586318223859,34
+Astra Militarum,Burden Of Trust,Crucible Of Battle,0.4970586318223859,34
+Imperial Knights,Terraform,Tipping Point,0.496945502277093,32
+Tyranids,Burden Of Trust,Tipping Point,0.496945502277093,32
+Leagues Of Votann,Linchpin,Tipping Point,0.4968282334960017,503
+World Eaters,Scorched Earth,Dawn Of War,0.4968233223681767,30
+Leagues Of Votann,Linchpin,Hammer And Anvil,0.4968233223681767,30
+T'au,Burden Of Trust,Hammer And Anvil,0.4968233223681767,30
+Space Wolves,Purge The Foe,Search And Destroy,0.4968233223681767,30
+Space Wolves,Linchpin,Tipping Point,0.4968037882820979,499
+Aeldari,Purge The Foe,Crucible Of Battle,0.49678496507667336,807
+Black Templars,Terraform,Crucible Of Battle,0.49659377026367313,467
+Leagues Of Votann,Linchpin,Search And Destroy,0.49649295162454293,453
+Emperor's Children,Scorched Earth,Crucible Of Battle,0.4964883821769964,310
+Blood Angels,Take And Hold,Search And Destroy,0.4964022393148165,858
+World Eaters,Linchpin,Tipping Point,0.495908246267369,752
+Chaos Space Marines,Scorched Earth,Tipping Point,0.49586325715313917,381
+Thousand Sons,Scorched Earth,Search And Destroy,0.49571360754110816,367
+Dark Angels,Purge The Foe,Dawn Of War,0.49570802266077346,250
+Dark Angels,Terraform,Sweeping Engagement,0.49527738209308864,543
+Blood Angels,Terraform,Sweeping Engagement,0.49515695103535307,529
+World Eaters,Scorched Earth,Tipping Point,0.4950488497153744,618
+Grey Knights,Scorched Earth,Tipping Point,0.49504825706987704,315
+Black Templars,Supply Drop,Tipping Point,0.4950050263724519,212
+Grey Knights,Supply Drop,Sweeping Engagement,0.4947293289472706,105
+Astra Militarum,Purge The Foe,Crucible Of Battle,0.49472229202843765,768
+Leagues Of Votann,Terraform,Sweeping Engagement,0.49459663230752066,287
+Space Marines,Linchpin,Search And Destroy,0.49423330160899703,1048
+Leagues Of Votann,Supply Drop,Tipping Point,0.49420583059204426,180
+Chaos Daemons,Supply Drop,Hammer And Anvil,0.49390087430741497,170
+Grey Knights,Take And Hold,Tipping Point,0.4935011831588078,543
+Necrons,Linchpin,Hammer And Anvil,0.4934768922614737,81
+Necrons,Linchpin,Tipping Point,0.4934123004870884,839
+Thousand Sons,Take And Hold,Hammer And Anvil,0.49322138652019065,446
+Necrons,Take And Hold,Search And Destroy,0.49306314546357444,1012
+Necrons,Purge The Foe,Crucible Of Battle,0.4930437476098173,1081
+Leagues Of Votann,Take And Hold,Tipping Point,0.49273192842185465,621
+Dark Angels,Take And Hold,Dawn Of War,0.4926656083443597,138
+Grey Knights,Supply Drop,Tipping Point,0.49256128304219216,203
+Grey Knights,Hidden Supplies,Search And Destroy,0.4925522860459631,337
+Astra Militarum,Linchpin,Tipping Point,0.49227719478803733,648
+T'au,Take And Hold,Crucible Of Battle,0.4920622423904679,63
+Deathwatch,Linchpin,Dawn Of War,0.4918662483754177,61
+Dark Angels,Hidden Supplies,Crucible Of Battle,0.49181897267202723,305
+Black Templars,Linchpin,Crucible Of Battle,0.4917226151314917,120
+Tyranids,Terraform,Hammer And Anvil,0.4916603306127701,59
+Blood Angels,Terraform,Search And Destroy,0.49144371582349144,57
+Death Guard,Terraform,Search And Destroy,0.49144371582349144,57
+Necrons,Linchpin,Sweeping Engagement,0.49144371582349144,57
+T'au,Take And Hold,Search And Destroy,0.491422236933717,698
+Genestealer Cults,Linchpin,Tipping Point,0.4913646644736353,230
+Thousand Sons,Take And Hold,Search And Destroy,0.49136055895940284,635
+Orks,Linchpin,Crucible Of Battle,0.4913519859582749,114
+Thousand Sons,Terraform,Sweeping Engagement,0.49135027451160485,403
+Adeptus Mechanicus,Hidden Supplies,Hammer And Anvil,0.49122095544249117,112
+Adeptus Custodes,Supply Drop,Tipping Point,0.4911408380591013,393
+Aeldari,Linchpin,Dawn Of War,0.4910767404474825,334
+Tyranids,Supply Drop,Search And Destroy,0.49097487833436765,53
+Aeldari,Purge The Foe,Hammer And Anvil,0.49092100773798725,383
+Adeptus Mechanicus,Take And Hold,Search And Destroy,0.4907093121129672,320
+Leagues Of Votann,Linchpin,Dawn Of War,0.4905314303438984,208
+Space Marines,Hidden Supplies,Tipping Point,0.49045168287549046,49
+Adeptus Custodes,Purge The Foe,Search And Destroy,0.49045168287549046,49
+Deathwatch,Hidden Supplies,Search And Destroy,0.49034305098674036,100
+Aeldari,Linchpin,Search And Destroy,0.4903073742626039,667
+T'au,Linchpin,Tipping Point,0.49019317543211915,659
+Black Templars,Linchpin,Hammer And Anvil,0.490166658483714,47
+Adepta Sororitas,Hidden Supplies,Crucible Of Battle,0.49006686298448393,147
+Leagues Of Votann,Scorched Earth,Tipping Point,0.49003042539075975,347
+Space Wolves,Linchpin,Crucible Of Battle,0.4900100527449038,96
+Blood Angels,Terraform,Dawn Of War,0.48986409412936677,45
+Aeldari,Take And Hold,Hammer And Anvil,0.4898448151937182,488
+Orks,Linchpin,Dawn Of War,0.48981021328518987,290
+Blood Angels,Scorched Earth,Tipping Point,0.4897608046558436,435
+Adepta Sororitas,Purge The Foe,Crucible Of Battle,0.48962397799200186,429
+Emperor's Children,Linchpin,Tipping Point,0.4896168185658879,525
+Adeptus Custodes,Burden Of Trust,Dawn Of War,0.48954231933982284,43
+Necrons,Scorched Earth,Tipping Point,0.4893116631114108,603
+Tyranids,Linchpin,Sweeping Engagement,0.4891994445640793,41
+Death Guard,Take And Hold,Crucible Of Battle,0.4891579484863322,133
+T'au,Terraform,Search And Destroy,0.48883332404082785,39
+Imperial Agents,Terraform,Crucible Of Battle,0.48883332404082785,39
+Adeptus Mechanicus,Scorched Earth,Search And Destroy,0.4885597663338541,125
+Black Templars,Linchpin,Tipping Point,0.4884748800782258,471
+Imperial Agents,Hidden Supplies,Search And Destroy,0.48844151084927784,37
+Adepta Sororitas,Take And Hold,Sweeping Engagement,0.48844151084927784,37
+Astra Militarum,Scorched Earth,Tipping Point,0.4883795587139789,510
+Aeldari,Supply Drop,Sweeping Engagement,0.4880064784356045,160
+Grey Knights,Scorched Earth,Crucible Of Battle,0.4880038233390454,285
+Chaos Daemons,Hidden Supplies,Crucible Of Battle,0.48785920602013166,199
+Thousand Sons,Take And Hold,Dawn Of War,0.48767197998307266,74
+Death Guard,Burden Of Trust,Sweeping Engagement,0.48756917204544986,33
+Space Wolves,Terraform,Tipping Point,0.48756917204544986,33
+Necrons,Terraform,Sweeping Engagement,0.48754124621353795,675
+Space Marines,Linchpin,Sweeping Engagement,0.48740397954792214,72
+Emperor's Children,Take And Hold,Tipping Point,0.48732235156428816,663
+Orks,Take And Hold,Search And Destroy,0.48725182206001383,620
+Grey Knights,Linchpin,Search And Destroy,0.487226108619433,423
+Dark Angels,Terraform,Hammer And Anvil,0.48708168859625167,31
+Genestealer Cults,Scorched Earth,Crucible Of Battle,0.48703007862638464,185
+Aeldari,Supply Drop,Tipping Point,0.48687652427720796,335
+T'au,Hidden Supplies,Crucible Of Battle,0.48680217030710726,333
+Necrons,Scorched Earth,Crucible Of Battle,0.4866248624891949,590
+Space Marines,Scorched Earth,Dawn Of War,0.48652518742335854,66
+T'au,Linchpin,Dawn Of War,0.4859048254601334,346
+Leagues Of Votann,Linchpin,Crucible Of Battle,0.485821932635973,97
+Tyranids,Supply Drop,Sweeping Engagement,0.48565163183689736,235
+Chaos Space Marines,Purge The Foe,Hammer And Anvil,0.48560093159900464,373
+Dark Angels,Supply Drop,Hammer And Anvil,0.48560093159900464,373
+World Eaters,Scorched Earth,Crucible Of Battle,0.4854473380141326,575
+Thousand Sons,Hidden Supplies,Search And Destroy,0.48539013493552824,470
+Death Guard,Scorched Earth,Hammer And Anvil,0.4851431553642159,58
+Genestealer Cults,Purge The Foe,Crucible Of Battle,0.48506598415677077,225
+Tyranids,Supply Drop,Tipping Point,0.48496043302186725,456
+Leagues Of Votann,Take And Hold,Dawn Of War,0.48475218576853735,56
+Grey Knights,Take And Hold,Search And Destroy,0.48458987146561133,477
+Chaos Space Marines,Take And Hold,Search And Destroy,0.48456104273314415,638
+Aeldari,Hidden Supplies,Crucible Of Battle,0.48446134373014704,312
+Necrons,Terraform,Search And Destroy,0.4843400826812005,54
+Tyranids,Purge The Foe,Sweeping Engagement,0.4843400826812005,54
+Drukhari,Terraform,Crucible Of Battle,0.4842718479219781,308
+Black Templars,Supply Drop,Hammer And Anvil,0.48416089228748416,211
+Necrons,Take And Hold,Tipping Point,0.48412689346014753,1124
+Grey Knights,Purge The Foe,Dawn Of War,0.48388585526308386,145
+Space Marines,Take And Hold,Dawn Of War,0.4838804888310419,238
+Blood Angels,Hidden Supplies,Search And Destroy,0.4838745175121515,672
+Emperor's Children,Supply Drop,Tipping Point,0.4837545551500345,236
+Necrons,Linchpin,Search And Destroy,0.48359247645686887,782
+Space Marines,Hidden Supplies,Dawn Of War,0.4834452302629834,50
+Astra Militarum,Terraform,Crucible Of Battle,0.4833682826225518,681
+Emperor's Children,Linchpin,Dawn Of War,0.4832505393454833,288
+Black Templars,Take And Hold,Tipping Point,0.48314375546587435,642
+Necrons,Terraform,Crucible Of Battle,0.4830715309388204,905
+Tyranids,Take And Hold,Dawn Of War,0.48301702214198294,166
+Thousand Sons,Purge The Foe,Tipping Point,0.4829583252707182,48
+Adepta Sororitas,Scorched Earth,Crucible Of Battle,0.4824529459809824,274
+Tyranids,Terraform,Tipping Point,0.48244191088498234,46
+Orks,Take And Hold,Sweeping Engagement,0.48244191088498234,46
+Necrons,Supply Drop,Tipping Point,0.48194948256285136,432
+Chaos Daemons,Take And Hold,Crucible Of Battle,0.4818932206001381,44
+Chaos Space Marines,Supply Drop,Tipping Point,0.48180439266369396,291
+Leagues Of Votann,Take And Hold,Search And Destroy,0.48172871604030365,536
+Orks,Take And Hold,Dawn Of War,0.4817047976136343,98
+Tyranids,Terraform,Sweeping Engagement,0.48157752442183166,640
+Leagues Of Votann,Scorched Earth,Crucible Of Battle,0.48144929553737603,312
+Thousand Sons,Terraform,Crucible Of Battle,0.4814085108844173,634
+Deathwatch,Purge The Foe,Hammer And Anvil,0.4813893630897314,96
+Dark Angels,Supply Drop,Tipping Point,0.48135720343335636,364
+Blood Angels,Burden Of Trust,Dawn Of War,0.48130913094207806,42
+Genestealer Cults,Supply Drop,Sweeping Engagement,0.48130913094207806,42
+Necrons,Hidden Supplies,Search And Destroy,0.48105145764801116,780
+Blood Angels,Take And Hold,Tipping Point,0.48078472918216403,899
+Emperor's Children,Purge The Foe,Search And Destroy,0.4806861019734807,40
+T'au,Burden Of Trust,Crucible Of Battle,0.4806861019734807,40
+Dark Angels,Supply Drop,Dawn Of War,0.4806861019734807,40
+Space Wolves,Purge The Foe,Crucible Of Battle,0.4805547866642226,631
+Dark Angels,Purge The Foe,Crucible Of Battle,0.48053152544386607,810
+Leagues Of Votann,Hidden Supplies,Search And Destroy,0.4804812586564804,398
+Astra Militarum,Terraform,Dawn Of War,0.48002010548980756,38
+Blood Angels,Terraform,Tipping Point,0.48002010548980756,38
+Aeldari,Scorched Earth,Search And Destroy,0.4796262732197855,405
+Astra Militarum,Supply Drop,Tipping Point,0.4796029152960222,380
+Emperor's Children,Linchpin,Crucible Of Battle,0.4793888846388281,109
+Adeptus Mechanicus,Take And Hold,Crucible Of Battle,0.4793065378287294,36
+Astra Militarum,Scorched Earth,Dawn Of War,0.4793065378287294,36
+Chaos Daemons,Terraform,Dawn Of War,0.4793065378287294,36
+Drukhari,Linchpin,Dawn Of War,0.47909237781947916,155
+Blood Angels,Take And Hold,Hammer And Anvil,0.4787635084124023,529
+Orks,Terraform,Dawn Of War,0.47854011330386736,34
+Astra Militarum,Burden Of Trust,Hammer And Anvil,0.47854011330386736,34
+Dark Angels,Scorched Earth,Hammer And Anvil,0.47854011330386736,34
+Deathwatch,Scorched Earth,Tipping Point,0.47797108284090645,78
+Astra Militarum,Linchpin,Dawn Of War,0.4779490976173212,350
+Deathwatch,Take And Hold,Search And Destroy,0.47782524920247776,145
+Astra Militarum,Hidden Supplies,Tipping Point,0.4777147330463238,32
+Black Templars,Linchpin,Dawn Of War,0.4775225040817841,254
+Adeptus Custodes,Terraform,Search And Destroy,0.47727624819738135,53
+Orks,Scorched Earth,Search And Destroy,0.4772099612246057,338
+Leagues Of Votann,Take And Hold,Hammer And Anvil,0.4771029152960221,380
+Blood Angels,Hidden Supplies,Crucible Of Battle,0.47686152905863693,311
+Blood Angels,Burden Of Trust,Hammer And Anvil,0.47682332236817676,30
+Thousand Sons,Terraform,Hammer And Anvil,0.47682332236817676,30
+World Eaters,Burden Of Trust,Crucible Of Battle,0.47682332236817676,30
+Death Guard,Scorched Earth,Sweeping Engagement,0.47682332236817676,30
+Aeldari,Burden Of Trust,Dawn Of War,0.47682332236817676,30
+World Eaters,Scorched Earth,Search And Destroy,0.47679611854658177,504
+Adeptus Mechanicus,Linchpin,Dawn Of War,0.47677328028241783,116
+Drukhari,Supply Drop,Hammer And Anvil,0.47669532559496075,137
+T'au,Hidden Supplies,Hammer And Anvil,0.4764512043368711,284
+Space Marines,Scorched Earth,Sweeping Engagement,0.475958929252302,49
+Orks,Take And Hold,Tipping Point,0.47569983450977615,789
+Tyranids,Terraform,Search And Destroy,0.47546779680010043,68
+Dark Angels,Scorched Earth,Tipping Point,0.4752653498466331,512
+Adeptus Custodes,Linchpin,Crucible Of Battle,0.47524503641910026,148
+Necrons,Hidden Supplies,Hammer And Anvil,0.475222356386363,390
+Dark Angels,Take And Hold,Tipping Point,0.47485293159111924,1060
+Dark Angels,Linchpin,Search And Destroy,0.4746645137997258,677
+T'au,Supply Drop,Hammer And Anvil,0.47466200657890945,302
+Tyranids,Burden Of Trust,Dawn Of War,0.4744794787447513,45
+Tyranids,Supply Drop,Hammer And Anvil,0.47426305986403716,433
+Orks,Supply Drop,Sweeping Engagement,0.4740072882400553,140
+Black Templars,Scorched Earth,Tipping Point,0.4738319031954538,330
+Orks,Scorched Earth,Crucible Of Battle,0.4738112189641495,387
+Tyranids,Hidden Supplies,Search And Destroy,0.473541273376055,723
+T'au,Take And Hold,Tipping Point,0.4729109610249498,798
+Thousand Sons,Supply Drop,Hammer And Anvil,0.47288320499397285,244
+Astra Militarum,Linchpin,Sweeping Engagement,0.47280600194112854,41
+T'au,Terraform,Tipping Point,0.47280600194112854,41
+Adeptus Mechanicus,Take And Hold,Tipping Point,0.4727920172349545,335
+Dark Angels,Terraform,Crucible Of Battle,0.4723138238705331,672
+World Eaters,Supply Drop,Sweeping Engagement,0.4722575050378776,202
+Death Guard,Scorched Earth,Dawn Of War,0.4718841714984549,39
+Tyranids,Hidden Supplies,Tipping Point,0.4718841714984549,39
+Black Templars,Scorched Earth,Crucible Of Battle,0.47146394977081135,336
+Astra Militarum,Burden Of Trust,Dawn Of War,0.47089765120015503,37
+Chaos Space Marines,Linchpin,Hammer And Anvil,0.470826569167687,54
+Astra Militarum,Take And Hold,Crucible Of Battle,0.47078204525723993,71
+Necrons,Take And Hold,Hammer And Anvil,0.47069668952965804,685
+Blood Angels,Purge The Foe,Crucible Of Battle,0.47054185373694685,868
+Space Marines,Supply Drop,Tipping Point,0.4705153382626705,545
+Thousand Sons,Hidden Supplies,Hammer And Anvil,0.4704390076753943,256
+Deathwatch,Terraform,Crucible Of Battle,0.47029404370292033,120
+Space Marines,Linchpin,Crucible Of Battle,0.4702232340087913,254
+T'au,Terraform,Sweeping Engagement,0.4701119608717917,437
+Space Wolves,Hidden Supplies,Crucible Of Battle,0.4700386370879199,269
+Dark Angels,Linchpin,Hammer And Anvil,0.4700161960890116,52
+Necrons,Terraform,Hammer And Anvil,0.4700161960890116,52
+Black Templars,Take And Hold,Crucible Of Battle,0.4700161960890116,52
+Black Templars,Purge The Foe,Hammer And Anvil,0.4696770818435023,348
+Orks,Terraform,Sweeping Engagement,0.4694967858274912,395
+Necrons,Purge The Foe,Search And Destroy,0.4694386910161935,67
+T'au,Hidden Supplies,Search And Destroy,0.4692605702115467,587
+Black Templars,Terraform,Sweeping Engagement,0.4689246825609587,323
+T'au,Linchpin,Search And Destroy,0.46884037121931954,643
+Deathwatch,Linchpin,Search And Destroy,0.468732658512811,129
+Aeldari,Burden Of Trust,Search And Destroy,0.46870124751714787,33
+Astra Militarum,Scorched Earth,Sweeping Engagement,0.46870124751714787,33
+T'au,Burden Of Trust,Tipping Point,0.46870124751714787,33
+T'au,Purge The Foe,Crucible Of Battle,0.4686298829406594,782
+Chaos Space Marines,Take And Hold,Tipping Point,0.4682954935937125,742
+Emperor's Children,Hidden Supplies,Crucible Of Battle,0.4682826597743913,253
+Necrons,Hidden Supplies,Crucible Of Battle,0.4682537356914996,426
+Adeptus Mechanicus,Linchpin,Search And Destroy,0.4679546699515014,219
+Grey Knights,Terraform,Sweeping Engagement,0.4677980849498757,311
+Chaos Daemons,Supply Drop,Sweeping Engagement,0.4676209391009631,93
+Black Templars,Scorched Earth,Hammer And Anvil,0.4674738454589968,31
+Space Marines,Burden Of Trust,Hammer And Anvil,0.46729039573346726,46
+Tyranids,Linchpin,Crucible Of Battle,0.46724024531068525,168
+Leagues Of Votann,Take And Hold,Crucible Of Battle,0.46717489035072635,61
+Blood Angels,Purge The Foe,Hammer And Anvil,0.46702278799675273,470
+Space Wolves,Purge The Foe,Dawn Of War,0.4665621562229871,224
+Orks,Take And Hold,Hammer And Anvil,0.4662092619034662,473
+Space Marines,Hidden Supplies,Crucible Of Battle,0.46603043638015756,544
+Astra Militarum,Linchpin,Search And Destroy,0.46580426870124825,628
+Dark Angels,Linchpin,Tipping Point,0.4656397123418529,654
+Space Marines,Scorched Earth,Crucible Of Battle,0.46560832094617693,697
+Chaos Space Marines,Purge The Foe,Crucible Of Battle,0.46553744958096555,652
+Dark Angels,Terraform,Dawn Of War,0.46546968984946546,57
+Drukhari,Purge The Foe,Crucible Of Battle,0.46534523639257397,302
+Aeldari,Purge The Foe,Tipping Point,0.46518009868401355,42
+Orks,Linchpin,Tipping Point,0.46445936403506444,505
+Tyranids,Take And Hold,Search And Destroy,0.4642694777626106,964
+Emperor's Children,Linchpin,Search And Destroy,0.4640020823543016,540
+Adepta Sororitas,Scorched Earth,Tipping Point,0.46397576637733623,262
+Astra Militarum,Terraform,Sweeping Engagement,0.463739560818088,467
+Necrons,Purge The Foe,Tipping Point,0.46357761806039494,53
+Emperor's Children,Take And Hold,Search And Destroy,0.4632757959779722,597
+Thousand Sons,Take And Hold,Crucible Of Battle,0.46326937346987024,66
+Blood Angels,Linchpin,Search And Destroy,0.46320554606284425,623
+Blood Angels,Supply Drop,Tipping Point,0.4631280367666896,364
+T'au,Burden Of Trust,Dawn Of War,0.46277872617946275,38
+Necrons,Scorched Earth,Hammer And Anvil,0.46277872617946275,38
+Leagues Of Votann,Purge The Foe,Crucible Of Battle,0.4627568185996184,481
+Thousand Sons,Hidden Supplies,Crucible Of Battle,0.46230123688651636,276
+Drukhari,Purge The Foe,Dawn Of War,0.4621924192582622,90
+Dark Angels,Hidden Supplies,Search And Destroy,0.4618945837829793,614
+Space Marines,Purge The Foe,Search And Destroy,0.4614859591411456,75
+Necrons,Scorched Earth,Dawn Of War,0.46146617562911363,49
+T'au,Supply Drop,Dawn Of War,0.4614493949715864,36
+Chaos Space Marines,Hidden Supplies,Dawn Of War,0.4614493949715864,36
+Grey Knights,Linchpin,Hammer And Anvil,0.4614493949715864,36
+Orks,Terraform,Crucible Of Battle,0.4613889892671694,528
+Orks,Hidden Supplies,Hammer And Anvil,0.4612258248794231,242
+Dark Angels,Scorched Earth,Crucible Of Battle,0.46121693546236614,474
+Orks,Purge The Foe,Hammer And Anvil,0.46077952941361366,392
+Chaos Space Marines,Linchpin,Search And Destroy,0.4607647862660181,583
+Blood Angels,Linchpin,Dawn Of War,0.4606174139915102,403
+Space Marines,Linchpin,Dawn Of War,0.4606041658409772,644
+Chaos Space Marines,Take And Hold,Hammer And Anvil,0.46057853110783703,466
+Orks,Supply Drop,Hammer And Anvil,0.46014702185146006,260
+Thousand Sons,Linchpin,Sweeping Engagement,0.4600215947853489,34
+Space Wolves,Linchpin,Sweeping Engagement,0.4600215947853489,34
+Astra Militarum,Take And Hold,Search And Destroy,0.45971243905178566,741
+Space Marines,Take And Hold,Crucible Of Battle,0.4591482583951462,143
+Imperial Agents,Take And Hold,Tipping Point,0.459094863360136,45
+Tyranids,Purge The Foe,Tipping Point,0.459094863360136,45
+Emperor's Children,Linchpin,Hammer And Anvil,0.459094863360136,45
+Drukhari,Take And Hold,Crucible Of Battle,0.45848396381555473,32
+Dark Angels,Burden Of Trust,Search And Destroy,0.45848396381555473,32
+Imperial Agents,Terraform,Sweeping Engagement,0.45848396381555473,32
+Chaos Space Marines,Linchpin,Dawn Of War,0.45847355840909026,333
+Adepta Sororitas,Purge The Foe,Dawn Of War,0.4581205416252129,139
+T'au,Terraform,Crucible Of Battle,0.4579439864450052,709
+Adepta Sororitas,Linchpin,Dawn Of War,0.45782168610658885,209
+Chaos Space Marines,Linchpin,Crucible Of Battle,0.45758704534018363,137
+Tyranids,Purge The Foe,Dawn Of War,0.4574767529431812,360
+Grey Knights,Terraform,Crucible Of Battle,0.4572347458000197,428
+Thousand Sons,Linchpin,Search And Destroy,0.45701275110037165,542
+T'au,Purge The Foe,Sweeping Engagement,0.4568233223681768,30
+Blood Angels,Take And Hold,Crucible Of Battle,0.45667881373342534,76
+Death Guard,Hidden Supplies,Tipping Point,0.4564125593181777,41
+Space Marines,Take And Hold,Search And Destroy,0.4561124447082951,1271
+Grey Knights,Linchpin,Tipping Point,0.4560577204550662,416
+Astra Militarum,Take And Hold,Tipping Point,0.4559008013790888,936
+Tyranids,Purge The Foe,Crucible Of Battle,0.45532211813499884,946
+Adeptus Mechanicus,Take And Hold,Dawn Of War,0.454935018956082,39
+Astra Militarum,Supply Drop,Hammer And Anvil,0.4548958957489503,305
+Chaos Space Marines,Terraform,Crucible Of Battle,0.45412359141623115,572
+Emperor's Children,Supply Drop,Sweeping Engagement,0.45351406570395353,134
+Thousand Sons,Terraform,Dawn Of War,0.4533537915510323,37
+Emperor's Children,Terraform,Search And Destroy,0.4533537915510323,37
+Astra Militarum,Terraform,Tipping Point,0.4533537915510323,37
+Space Marines,Purge The Foe,Hammer And Anvil,0.4529955677669467,845
+Space Marines,Terraform,Sweeping Engagement,0.45298522611536685,781
+Space Marines,Take And Hold,Sweeping Engagement,0.4524467741042759,99
+Chaos Space Marines,Linchpin,Tipping Point,0.45243440222704195,572
+Space Marines,Purge The Foe,Crucible Of Battle,0.4524244440144382,1255
+T'au,Take And Hold,Hammer And Anvil,0.452229993296043,559
+Grey Knights,Hidden Supplies,Hammer And Anvil,0.45208097225664545,192
+Blood Angels,Burden Of Trust,Crucible Of Battle,0.4516575657892516,35
+T'au,Scorched Earth,Dawn Of War,0.4516575657892516,35
+Adeptus Custodes,Take And Hold,Dawn Of War,0.45162950080005965,128
+Orks,Hidden Supplies,Crucible Of Battle,0.45126357821632895,250
+Emperor's Children,Take And Hold,Hammer And Anvil,0.45097603123541785,432
+Space Wolves,Hidden Supplies,Search And Destroy,0.450896679102457,472
+Space Marines,Take And Hold,Hammer And Anvil,0.4507935529418951,1040
+Emperor's Children,Supply Drop,Hammer And Anvil,0.4505306996932663,246
+Space Marines,Terraform,Tipping Point,0.4499050120259014,73
+Astra Militarum,Scorched Earth,Crucible Of Battle,0.449480253249817,478
+World Eaters,Take And Hold,Crucible Of Battle,0.44942319723930235,82
+Space Marines,Hidden Supplies,Search And Destroy,0.44927600672352624,890
+Emperor's Children,Purge The Foe,Crucible Of Battle,0.44920865648275093,623
+Emperor's Children,Hidden Supplies,Search And Destroy,0.4485794912192562,479
+Dark Angels,Take And Hold,Sweeping Engagement,0.4484671284282935,51
+Space Marines,Scorched Earth,Tipping Point,0.4475636394507573,784
+Emperor's Children,Take And Hold,Dawn Of War,0.4473588379429473,78
+Emperor's Children,Take And Hold,Sweeping Engagement,0.4473527686401473,40
+Blood Angels,Supply Drop,Hammer And Anvil,0.4472870630400264,315
+Astra Militarum,Linchpin,Crucible Of Battle,0.4470205592104471,134
+Chaos Space Marines,Terraform,Sweeping Engagement,0.44700033025528596,483
+Necrons,Scorched Earth,Sweeping Engagement,0.44553734686911795,38
+Tyranids,Scorched Earth,Dawn Of War,0.44539053908072895,47
+Space Marines,Purge The Foe,Sweeping Engagement,0.445118788493711,74
+Necrons,Take And Hold,Crucible Of Battle,0.44496831502817213,101
+Leagues Of Votann,Supply Drop,Sweeping Engagement,0.4441365556026376,135
+Dark Angels,Terraform,Search And Destroy,0.4437995421406599,54
+Chaos Space Marines,Terraform,Search And Destroy,0.4437102479755206,45
+World Eaters,Take And Hold,Sweeping Engagement,0.4435922521144436,36
+T'au,Purge The Foe,Dawn Of War,0.4428500674410411,219
+Space Wolves,Take And Hold,Search And Destroy,0.44252266354628333,583
+Grey Knights,Supply Drop,Hammer And Anvil,0.4422858163088107,208
+Blood Angels,Linchpin,Crucible Of Battle,0.4418810735333794,172
+Grey Knights,Hidden Supplies,Crucible Of Battle,0.4413783953579778,213
+Emperor's Children,Hidden Supplies,Hammer And Anvil,0.44112918119842903,229
+Drukhari,Hidden Supplies,Crucible Of Battle,0.4400062694538109,166
+Astra Militarum,Purge The Foe,Hammer And Anvil,0.4392894378582353,485
+Black Templars,Supply Drop,Search And Destroy,0.4392531945847854,32
+Imperial Agents,Scorched Earth,Search And Destroy,0.4392531945847854,32
+Dark Angels,Hidden Supplies,Dawn Of War,0.4392531945847854,32
+Astra Militarum,Scorched Earth,Search And Destroy,0.43921135410639306,435
+Space Marines,Scorched Earth,Search And Destroy,0.43881432206001386,620
+Orks,Scorched Earth,Dawn Of War,0.43798586641370907,39
+T'au,Scorched Earth,Search And Destroy,0.4378720729259294,393
+Orks,Linchpin,Search And Destroy,0.4376713648842272,512
+Adeptus Custodes,Take And Hold,Crucible Of Battle,0.4371547563102942,78
+Emperor's Children,Terraform,Crucible Of Battle,0.43700551588572967,554
+Aeldari,Terraform,Tipping Point,0.43698736543043704,46
+T'au,Supply Drop,Tipping Point,0.4368834710819187,339
+Aeldari,Scorched Earth,Hammer And Anvil,0.4368233223681768,30
+Thousand Sons,Purge The Foe,Sweeping Engagement,0.4368233223681768,30
+Chaos Space Marines,Purge The Foe,Sweeping Engagement,0.4368233223681768,30
+Astra Militarum,Purge The Foe,Dawn Of War,0.436658426305737,243
+Tyranids,Purge The Foe,Search And Destroy,0.4364175968360543,69
+Space Marines,Supply Drop,Hammer And Anvil,0.4364058093915759,525
+Space Marines,Terraform,Search And Destroy,0.43618035778642245,53
+Chaos Space Marines,Scorched Earth,Dawn Of War,0.4358099319019095,37
+Necrons,Hidden Supplies,Tipping Point,0.4358099319019095,37
+Dark Angels,Burden Of Trust,Dawn Of War,0.4358099319019095,37
+Space Marines,Hidden Supplies,Hammer And Anvil,0.4340225578149674,475
+Astra Militarum,Hidden Supplies,Hammer And Anvil,0.43355180679885297,321
+Chaos Knights,Scorched Earth,Hammer And Anvil,0.43347574760743346,35
+Blood Angels,Supply Drop,Search And Destroy,0.43347574760743346,35
+Imperial Agents,Take And Hold,Search And Destroy,0.4324806683827368,49
+Space Marines,Scorched Earth,Hammer And Anvil,0.4324806683827368,49
+Deathwatch,Take And Hold,Hammer And Anvil,0.4322227090124675,93
+Orks,Supply Drop,Tipping Point,0.4309069100950128,279
+Space Marines,Terraform,Crucible Of Battle,0.43073713296086974,1094
+Astra Militarum,Hidden Supplies,Search And Destroy,0.4307302032919709,502
+Space Marines,Take And Hold,Tipping Point,0.43016958481451456,1579
+Orks,Scorched Earth,Tipping Point,0.4296212878331014,373
+Astra Militarum,Take And Hold,Hammer And Anvil,0.4285433499444795,549
+Chaos Space Marines,Hidden Supplies,Hammer And Anvil,0.4285187000607552,283
+Adeptus Mechanicus,Take And Hold,Hammer And Anvil,0.4285007350372072,206
+Chaos Space Marines,Supply Drop,Sweeping Engagement,0.4284690135795438,136
+T'au,Take And Hold,Dawn Of War,0.4284393894083375,101
+Space Marines,Supply Drop,Crucible Of Battle,0.42836919137226376,59
+Astra Militarum,Purge The Foe,Search And Destroy,0.42834952942234494,52
+Adeptus Custodes,Hidden Supplies,Tipping Point,0.4282581591844871,31
+Chaos Knights,Terraform,Dawn Of War,0.4282581591844871,31
+Orks,Purge The Foe,Crucible Of Battle,0.42692745326603376,598
+Emperor's Children,Purge The Foe,Hammer And Anvil,0.4252337592779714,370
+Deathwatch,Terraform,Sweeping Engagement,0.4244552418371188,88
+Adeptus Mechanicus,Purge The Foe,Dawn Of War,0.4241699615684043,81
+Chaos Space Marines,Supply Drop,Hammer And Anvil,0.4237681406583351,251
+Adepta Sororitas,Supply Drop,Sweeping Engagement,0.42337315149034366,93
+Chaos Space Marines,Scorched Earth,Search And Destroy,0.42306225328943775,320
+Space Marines,Linchpin,Tipping Point,0.4212547407120626,1017
+Necrons,Terraform,Dawn Of War,0.4204574013156537,70
+T'au,Supply Drop,Sweeping Engagement,0.42009577429144274,201
+T'au,Terraform,Hammer And Anvil,0.41826607225278667,37
+Necrons,Burden Of Trust,Crucible Of Battle,0.4155397928120722,47
+Astra Militarum,Take And Hold,Dawn Of War,0.41546337968491537,112
+Astra Militarum,Purge The Foe,Sweeping Engagement,0.414019435306814,40
+Emperor's Children,Purge The Foe,Tipping Point,0.414019435306814,40
+Chaos Space Marines,Scorched Earth,Crucible Of Battle,0.412973183461408,384
+Chaos Space Marines,Linchpin,Sweeping Engagement,0.41209747393224233,33
+Chaos Space Marines,Purge The Foe,Tipping Point,0.4110545882484282,38
+Death Guard,Burden Of Trust,Search And Destroy,0.4101772399747434,43
+Orks,Purge The Foe,Search And Destroy,0.4101772399747434,43
+Grey Knights,Terraform,Dawn Of War,0.40787796640015783,36
+T'au,Purge The Foe,Tipping Point,0.4072322314493253,41
+Genestealer Cults,Purge The Foe,Hammer And Anvil,0.4064269513482026,142
+Orks,Purge The Foe,Dawn Of War,0.4062388143654062,211
+Necrons,Linchpin,Crucible Of Battle,0.4062388143654062,211
+Adeptus Mechanicus,Scorched Earth,Tipping Point,0.40566742519821386,199
+Chaos Space Marines,Purge The Foe,Dawn Of War,0.40554092017146803,204
+Chaos Space Marines,Take And Hold,Crucible Of Battle,0.40305273567606126,59
+Orks,Supply Drop,Search And Destroy,0.4007916561232469,32
+Orks,Burden Of Trust,Hammer And Anvil,0.4007916561232469,32
+Chaos Space Marines,Terraform,Dawn Of War,0.4006639696517555,42
+Space Marines,Burden Of Trust,Search And Destroy,0.4006144196777439,47
+T'au,Purge The Foe,Hammer And Anvil,0.3992249808172976,443
+Tyranids,Scorched Earth,Sweeping Engagement,0.3973527686401474,40
+Space Marines,Burden Of Trust,Tipping Point,0.3973527686401474,40
+Astra Militarum,Supply Drop,Sweeping Engagement,0.39636921587755425,189
+Space Marines,Burden Of Trust,Sweeping Engagement,0.39310081627665233,61
+Astra Militarum,Linchpin,Hammer And Anvil,0.3905996678275376,82
+Chaos Space Marines,Purge The Foe,Search And Destroy,0.3883069038830347,62
+Thousand Sons,Linchpin,Hammer And Anvil,0.3881432206001381,44
+Deathwatch,Hidden Supplies,Crucible Of Battle,0.38344523026298344,50
+Dark Angels,Scorched Earth,Dawn Of War,0.38344523026298344,50
+Orks,Scorched Earth,Hammer And Anvil,0.3815608868924777,32
+T'au,Supply Drop,Search And Destroy,0.3768233223681768,30
+Orks,Purge The Foe,Sweeping Engagement,0.37436162487563845,33
+Imperial Knights,Take And Hold,Sweeping Engagement,0.37216368068587213,36
+Chaos Space Marines,Take And Hold,Sweeping Engagement,0.37216368068587213,36
+Imperial Agents,Purge The Foe,Crucible Of Battle,0.37076367340908717,47
+Aeldari,Burden Of Trust,Crucible Of Battle,0.3694346297727224,31
+Emperor's Children,Burden Of Trust,Dawn Of War,0.3674290021927562,34
+Dark Angels,Supply Drop,Search And Destroy,0.3623301176617084,32
+Chaos Space Marines,Take And Hold,Dawn Of War,0.36232368692899863,101
+T'au,Purge The Foe,Search And Destroy,0.3498755791325188,51
+Deathwatch,Hidden Supplies,Hammer And Anvil,0.34126822060013806,44
+Deathwatch,Supply Drop,Hammer And Anvil,0.3312155482454512,55
